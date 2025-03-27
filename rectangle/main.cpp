@@ -1,21 +1,21 @@
 #include "iostream"
 using namespace std;
 
-class Game {
+class Rectangle {
     public:
         int x;
         int y;
 };
 
 int main() {
-    Game game;
+    Rectangle rec;
     cout << "X: ";
-    cin >> game.x;
+    cin >> rec.x;
     cout << "Y: ";
-    cin >> game.y;  
+    cin >> rec.y;  
 
-    for(int y = 1; y <= game.y; y++) {
-        for(int x = 1; x <= game.x; x++) {
+    for(int y = 1; y <= rec.y; y++) {
+        for(int x = 1; x <= rec.x; x++) {
             cout << "* ";
         }
         cout << "\n";
