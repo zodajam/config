@@ -225,13 +225,12 @@ source = auto
 
 # SDL and sdl_glsl only support hex code colors, these are the default:
 gradient = 1
-gradient_color_1 = '#FFCCCC'  ; Ljusrosa-röd (toppen)
-gradient_color_2 = '#FF6666'  ; Ljusröd
-gradient_color_3 = '#FF3333'  ; Mättad röd
-gradient_color_4 = '#CC0000'  ; Mörkröd
-gradient_color_5 = '#990000'  ; Djup röd (nära botten)
+gradient_color_1 = '#FFCCCC' 
+gradient_color_2 = '#FF6666'  
+gradient_color_3 = '#FF3333'  
+gradient_color_4 = '#CC0000'  
+gradient_color_5 = '#990000'  
 gradient_color_6 = '#660000'
-
 # Gradient mode, only hex defined colors are supported,
 # background must also be defined in hex or remain commented out. 1 = on, 0 = off.
 # You can define as many as 8 different colors. They range from bottom to top of screen
