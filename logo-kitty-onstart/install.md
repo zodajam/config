@@ -16,4 +16,5 @@
 cat ~/.name-of-file/ | lolcat
 ```
 (lolcat is to make it a random rainbow color, optional but I use it)<br>
-6. Now everytime you open up any terminal, that file will be read and printed.
+
+# Now everytime you open up any terminal, that file will be read and printed.
