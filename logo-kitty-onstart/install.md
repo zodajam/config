@@ -18,3 +18,4 @@ cat ~/.name-of-file/ | lolcat
 (lolcat is to make it a random rainbow color, optional but I use it)<br>
 
 ### Now everytime you open up any terminal, that file will be read and printed.
+<img src="showcase.png">
