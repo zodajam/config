@@ -21,3 +21,4 @@ bg=NONE
 ```
 
 Now you have my config for Neo, you just have to type `matrix`
+<img src="showcase.png">
