@@ -15,7 +15,7 @@ gtk-application-prefer-dark-theme=true
 Do the same to `~/.config/gtk-4.0/settings.ini`
 
 ## Now for Qt
-`sudo pacman -S qt5ct kvantum kvantummanager
+`sudo pacman -S qt5ct kvantum kvantummanager`
 
 Edit `~/.config/environment.d/qt.conf` and add this:
 ```shell
