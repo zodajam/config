@@ -16,9 +16,15 @@ gtk-application-prefer-dark-theme=true
 Do the same to `~/.config/gtk-4.0/settings.ini`
 
 ## Now for Qt
+`sudo pacman -S qt5ct kvantum kvantummanager
+
 Edit `~/.config/environment.d/qt.conf` and add this:
 ```
 bash
 QT_QPA_PLATFORMTHEME=qt5ct
 QT_STYLE_OVERRIDE=kvantum
 ```
+
+Then open `kvantummanager`
+Go to Change/Delete
+Pick your theme and apply it
