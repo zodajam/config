@@ -4,8 +4,7 @@
 Move the folder into `/usr/share/themes`
 
 Then edit `~/.config/gtk-3.0/settings.ini` and add this:
-```
-bash
+```shell
 [Settings]
 gtk-theme-name=catppuccin-frappe-red-standard+default
 icon-theme-name=Tela-circle-Dark
@@ -19,8 +18,7 @@ Do the same to `~/.config/gtk-4.0/settings.ini`
 `sudo pacman -S qt5ct kvantum kvantummanager
 
 Edit `~/.config/environment.d/qt.conf` and add this:
-```
-bash
+```shell
 QT_QPA_PLATFORMTHEME=qt5ct
 QT_STYLE_OVERRIDE=kvantum
 ```
